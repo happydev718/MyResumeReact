@@ -1,0 +1,19 @@
+{
+  "name": "myresumereact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happydev718/MyResumeReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happydev718/MyResumeReact/issues"
+  },
+  "homepage": "https://github.com/happydev718/MyResumeReact#readme"
+}
